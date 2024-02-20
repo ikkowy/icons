@@ -1,6 +1,6 @@
 {
   "name": "@ikkowy/icons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "My custom icon pack",
   "main": "index.js",
   "scripts": {
