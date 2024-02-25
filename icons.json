@@ -1,0 +1,149 @@
+{
+  "arrow-down": {
+    "look": ["regular"]
+  },
+  "arrow-left": {
+    "look": ["regular"]
+  },
+  "arrow-right": {
+    "look": ["regular"]
+  },
+  "arrow-up": {
+    "look": ["regular"]
+  },
+  "back": {
+    "look": ["regular"]
+  },
+  "bell": {
+    "look": ["regular", "solid"]
+  },
+  "bell-off": {
+    "look": ["regular", "solid"]
+  },
+  "bell-ring": {
+    "look": ["regular", "solid"]
+  },
+  "book": {
+    "look": ["regular", "solid"]
+  },
+  "bullet-circle": {
+    "look": ["regular", "solid"]
+  },
+  "bullet-square": {
+    "look": ["regular", "solid"]
+  },
+  "check": {
+    "look": ["regular"]
+  },
+  "check-circle": {
+    "look": ["regular", "solid"]
+  },
+  "check-square": {
+    "look": ["regular", "solid"]
+  },
+  "circle": {
+    "look": ["regular", "solid"]
+  },
+  "clock": {
+    "look": ["regular", "solid"]
+  },
+  "cross": {
+    "look": ["regular"]
+  },
+  "cross-circle": {
+    "look": ["regular", "solid"]
+  },
+  "cross-square": {
+    "look": ["regular", "solid"]
+  },
+  "dark": {
+    "look": ["regular", "solid"]
+  },
+  "exit": {
+    "look": ["regular", "solid"]
+  },
+  "eye": {
+    "look": ["regular", "solid"]
+  },
+  "eye-off": {
+    "look": ["regular", "solid"]
+  },
+  "fore": {
+    "look": ["regular"]
+  },
+  "gear": {
+    "look": ["regular", "solid"]
+  },
+  "group": {
+    "look": ["regular", "solid"]
+  },
+  "help": {
+    "look": ["regular", "solid"]
+  },
+  "info": {
+    "look": ["regular", "solid"]
+  },
+  "key": {
+    "look": ["regular", "solid"]
+  },
+  "light": {
+    "look": ["regular", "solid"]
+  },
+  "mail": {
+    "look": ["regular", "solid"]
+  },
+  "menu": {
+    "look": ["regular"]
+  },
+  "menu-open": {
+    "look": ["regular"]
+  },
+  "message" : {
+    "look": ["regular", "solid"]
+  },
+  "message-off": {
+    "look": ["regular", "solid"]
+  },
+  "pencil": {
+    "look": ["regular"]
+  },
+  "phone": {
+    "look": ["regular", "solid"]
+  },
+  "phone-receiver": {
+    "look": ["regular"]
+  },
+  "phone-receiver-off": {
+    "look": ["regular"]
+  },
+  "pin": {
+    "look": ["regular", "solid"]
+  },
+  "pin-off": {
+    "look": ["regular", "solid"]
+  },
+  "search": {
+    "look": ["regular"]
+  },
+  "server": {
+    "look": ["regular", "solid"]
+  },
+  "square": {
+    "look": ["regular", "solid"]
+  },
+  "task": {
+    "look": ["regular", "solid"]
+  },
+  "unknown": {
+    "look": ["regular", "solid"]
+  },
+  "user-circle": {
+    "look": ["regular", "solid"]
+  },
+  "user": {
+    "look": ["regular", "solid"]
+  },
+  "vault": {
+    "look": ["regular", "solid"]
+  }
+}
