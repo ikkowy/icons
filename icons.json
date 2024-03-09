@@ -1,4 +1,16 @@
 {
+  "arrow-bar-down": {
+    "look": ["regular"]
+  },
+  "arrow-bar-left": {
+    "look": ["regular"]
+  },
+  "arrow-bar-right": {
+    "look": ["regular"]
+  },
+  "arrow-bar-up": {
+    "look": ["regular"]
+  },
   "arrow-down": {
     "look": ["regular"]
   },
@@ -11,8 +23,14 @@
   "arrow-up": {
     "look": ["regular"]
   },
-  "back": {
+  "asterisk": {
     "look": ["regular"]
+  },
+  "asterisk-circle": {
+    "look": ["regular", "solid"]
+  },
+  "asterisk-square": {
+    "look": ["regular", "solid"]
   },
   "bell": {
     "look": ["regular", "solid"]
@@ -24,6 +42,9 @@
     "look": ["regular", "solid"]
   },
   "book": {
+    "look": ["regular", "solid"]
+  },
+  "bookmark": {
     "look": ["regular", "solid"]
   },
   "bullet-circle": {
@@ -40,6 +61,18 @@
   },
   "check-square": {
     "look": ["regular", "solid"]
+  },
+  "chevron-down": {
+    "look": ["regular"]
+  },
+  "chevron-left": {
+    "look": ["regular"]
+  },
+  "chevron-right": {
+    "look": ["regular"]
+  },
+  "chevron-up": {
+    "look": ["regular"]
   },
   "circle": {
     "look": ["regular", "solid"]
@@ -59,7 +92,46 @@
   "dark": {
     "look": ["regular", "solid"]
   },
+  "dots-horizontal": {
+    "look": ["regular"]
+  },
+  "dots-vertical": {
+    "look": ["regular"]
+  },
+  "double-chevron-down": {
+    "look": ["regular"]
+  },
+  "double-chevron-left": {
+    "look": ["regular"]
+  },
+  "double-chevron-right": {
+    "look": ["regular"]
+  },
+  "double-chevron-up": {
+    "look": ["regular"]
+  },
+  "double-spin": {
+    "look": ["regular"]
+  },
+  "double-wedge-down": {
+    "look": ["regular"]
+  },
+  "double-wedge-left": {
+    "look": ["regular"]
+  },
+  "double-wedge-right": {
+    "look": ["regular"]
+  },
+  "double-wedge-up": {
+    "look": ["regular"]
+  },
+  "erlenmeyer-flask": {
+    "look": ["regular"]
+  },
   "exit": {
+    "look": ["regular", "solid"]
+  },
+  "export": {
     "look": ["regular", "solid"]
   },
   "eye": {
@@ -68,8 +140,11 @@
   "eye-off": {
     "look": ["regular", "solid"]
   },
-  "fore": {
-    "look": ["regular"]
+  "filter": {
+    "look": ["regular", "solid"]
+  },
+  "filter-off": {
+    "look": ["regular", "solid"]
   },
   "gear": {
     "look": ["regular", "solid"]
@@ -78,6 +153,9 @@
     "look": ["regular", "solid"]
   },
   "help": {
+    "look": ["regular", "solid"]
+  },
+  "import": {
     "look": ["regular", "solid"]
   },
   "info": {
@@ -104,6 +182,15 @@
   "message-off": {
     "look": ["regular", "solid"]
   },
+  "minus": {
+    "look": ["regular"]
+  },
+  "minus-circle": {
+    "look": ["regular", "solid"]
+  },
+  "minus-square": {
+    "look": ["regular", "solid"]
+  },
   "pencil": {
     "look": ["regular"]
   },
@@ -113,7 +200,16 @@
   "phone-receiver": {
     "look": ["regular"]
   },
+  "phone-receiver-cross": {
+    "look": ["regular"]
+  },
+  "phone-receiver-in": {
+    "look": ["regular"]
+  },
   "phone-receiver-off": {
+    "look": ["regular"]
+  },
+  "phone-receiver-out": {
     "look": ["regular"]
   },
   "pin": {
@@ -122,16 +218,55 @@
   "pin-off": {
     "look": ["regular", "solid"]
   },
+  "plus": {
+    "look": ["regular"]
+  },
+  "plus-circle": {
+    "look": ["regular", "solid"]
+  },
+  "plus-square": {
+    "look": ["regular", "solid"]
+  },
   "search": {
     "look": ["regular"]
   },
   "server": {
     "look": ["regular", "solid"]
   },
+  "spin": {
+    "look": ["regular"]
+  },
   "square": {
     "look": ["regular", "solid"]
   },
+  "star": {
+    "look": ["regular", "solid"]
+  },
+  "stopwatch": {
+    "look": ["regular", "solid"]
+  },
   "task": {
+    "look": ["regular", "solid"]
+  },
+  "test-tube": {
+    "look": ["regular"]
+  },
+  "trashcan": {
+    "look": ["regular", "solid"]
+  },
+  "trashcan-cross": {
+    "look": ["regular", "solid"]
+  },
+  "triangle-down": {
+    "look": ["regular", "solid"]
+  },
+  "triangle-left": {
+    "look": ["regular", "solid"]
+  },
+  "triangle-right": {
+    "look": ["regular", "solid"]
+  },
+  "triangle-up": {
     "look": ["regular", "solid"]
   },
   "unknown": {
@@ -144,6 +279,36 @@
     "look": ["regular", "solid"]
   },
   "vault": {
+    "look": ["regular", "solid"]
+  },
+  "warning": {
+    "look": ["regular", "solid"]
+  },
+  "wedge-bar-down": {
+    "look": ["regular"]
+  },
+  "wedge-bar-left": {
+    "look": ["regular"]
+  },
+  "wedge-bar-right": {
+    "look": ["regular"]
+  },
+  "wedge-bar-up": {
+    "look": ["regular"]
+  },
+  "wedge-down": {
+    "look": ["regular"]
+  },
+  "wedge-left": {
+    "look": ["regular"]
+  },
+  "wedge-right": {
+    "look": ["regular"]
+  },
+  "wedge-up": {
+    "look": ["regular"]
+  },
+  "zigzag": {
     "look": ["regular", "solid"]
   }
 }
